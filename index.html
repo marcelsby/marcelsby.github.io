@@ -3,7 +3,7 @@
 <head>
     <title>Aesthetic.png</title>
     <link rel="stylesheet" href="./style.css">
-    <script src="./main.js"></script>
+    <script type="module" src="./main.js"></script>
 </head>
 <body>
     <header>
@@ -16,9 +16,9 @@
         </div>
 
         <section id="filters">
-            <button onclick="animeFilter()">Anime</button>
-            <button onclick="captionFilter()">Caption</button>
-            <button onclick="landscapeFilter()">Landscape</button>
+            <button id="filter-anime">Anime</button>
+            <button id="filter-caption">Caption</button>
+            <button id="filter-landscape">Landscape</button>
         </section>
         
 
@@ -82,6 +82,6 @@
                 <!-- Create filtered img tags here. -->
             </div>
         </div>
-    </div>     
+    </div>   
 </body>
 </html>
