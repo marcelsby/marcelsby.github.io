@@ -15,7 +15,7 @@ O site teve como principal inspiração o layout do Pinterest.
 
 Para a resolução de alguns obstáculos eu tive como ajuda um amigo <a href="https://github.com/georgebias">@georgebias</a> e alguns artigos que deixarei os links abaixo:
 
-Criação da filtragem de imagens: https://www.geeksforgeeks.org/how-to-clear-the-content-of-a-div-using-javascript/
+Criação da filtragem de imagens: https://www.geeksforgeeks.org/how-to-clear-the-content-of-a-div-using-javascript/<br>
 Tutorial para criar a grid de imagens: https://www.youtube.com/watch?v=jqx_gANtNhg
 
 Para a organização e execução do projeto eu utilizei alguns softwares:
